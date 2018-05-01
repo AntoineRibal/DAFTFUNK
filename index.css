@@ -1,0 +1,17 @@
+
+.fond{
+    background-color: aquamarine;
+    border: 2px purple groove;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height:10;
+}
+p{
+    padding: 0;
+    margin: 0;
+}
+.com-xs-3{
+    width: 80px;
+    height: 80px;
+}
